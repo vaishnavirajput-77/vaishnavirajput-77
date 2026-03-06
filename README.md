@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vaishnavi%20Rajput&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:DA22FF,100:FF4E50&height=200&section=header&text=Vaishnavi%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">🚀 Always Learning New Technologies</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI%2FUX+Designer;Web+Developer;Creative+Thinker&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI%2FUX+Designer;Web+Developer;Creative+Thinker&center=true&width=500&height=45&color=DA22FF">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vaishnavirajput-77&label=Profile%20Views&color=blue&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=vaishnavirajput-77&label=Profile%20Views&color=DA22FF&style=for-the-badge">
 </p>
 
 ---
@@ -94,5 +94,5 @@
 <h2 align="center">✨ Thanks for visiting my profile! ✨</h2>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4E50,50:DA22FF,100:8E2DE2&height=120&section=footer"/>
 </p>
