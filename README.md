@@ -28,44 +28,30 @@
 
 ---
 
-## 👩‍💻 About Me
-
-🎨 Passionate about **learning new technologies**
-💻 Interested in **Web Development**
-✨ Love designing **modern UI/UX interfaces**
-🚀 Currently improving my **coding and design skills**
-
-• UI/UX Enthusiast
-• Frontend Developer
-• Creative Thinker bringing ideas to life
-
----
-
-## 🛠 Tech Stack & Tools
+<h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,bootstrap,git,github,vscode,figma"/>
+🤩 <i>"Passionate about turning ideas into reality through code, creativity, and design."</i>
+</p>
+
+<p align="center">
+✨ <b>Frontend Wizard:</b> I craft beautiful, responsive, and dynamic web interfaces. <br>
+✨ <b>UI/UX Enthusiast:</b> I believe in pixel-perfect designs with smooth animations. <br>
+✨ <b>Lifelong Learner:</b> Currently exploring modern web technologies. <br>
+✨ <b>Creative Thinker:</b> Bringing wild ideas to life through elegant code.
 </p>
 
 ---
 
-## 📊 Real-time Development Stats
+<h2 align="center">🛠 Tech Stack & Tools</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaishnavirajput-77&show_icons=true&theme=tokyonight">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,nodejs,python,git,github,vscode,figma"/>
 </p>
 
 ---
 
-## 📈 Top Languages by Repo
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavirajput-77&layout=compact&theme=tokyonight">
-</p>
-
----
-
-## 📊 Commits Graph
+<h2 align="center">📊 Commits Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavirajput-77&theme=tokyo-night">
@@ -73,7 +59,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=vaishnavirajput-77&theme=tokyonight">
@@ -81,7 +67,7 @@
 
 ---
 
-## 💡 Quote of the Day
+<h2 align="center">💡 Quote of the Day</h2>
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
@@ -89,19 +75,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## ⭐ Popular Repositories
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavirajput-77&repo=portfolio&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavirajput-77&repo=dashboard-ui&theme=tokyonight">
 </p>
 
 ---
