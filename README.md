@@ -1,7 +1,15 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vaishnavi%20Rajput&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">🚀 Always Learning New Technologies</h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI%2FUX+Designer;Web+Developer;Creative+Thinker&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vaishnavi-singh-a8a1112a7">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
 </a>
 
@@ -35,10 +43,10 @@
 </p>
 
 <p align="center">
-✨ <b>Frontend Wizard:</b> I craft beautiful, responsive, and dynamic web interfaces. <br>
-✨ <b>UI/UX Enthusiast:</b> I believe in pixel-perfect designs with smooth animations. <br>
-✨ <b>Lifelong Learner:</b> Currently exploring modern web technologies. <br>
-✨ <b>Creative Thinker:</b> Bringing wild ideas to life through elegant code.
+✨ <b>Frontend Developer:</b> I craft beautiful, responsive, and dynamic web interfaces. <br>
+✨ <b>UI/UX Enthusiast:</b> I love creating pixel-perfect and user-friendly designs. <br>
+✨ <b>Lifelong Learner:</b> Exploring modern web technologies and frameworks. <br>
+✨ <b>Creative Thinker:</b> Turning ideas into elegant code.
 </p>
 
 ---
@@ -46,7 +54,7 @@
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,nodejs,python,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,figma,github,vscode&perline=8"/>
 </p>
 
 ---
@@ -83,4 +91,8 @@
 
 ---
 
-<h2 align="center">✨ Thanks for visiting! ✨</h2>
+<h2 align="center">✨ Thanks for visiting my profile! ✨</h2>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
