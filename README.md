@@ -1,9 +1,37 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:8E2DE2,50:FF416C,100:F7971E&text=Hello!%20I'm%20Vaishnavi%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20|%20UI%20Developer&descAlignY=60&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8E2DE2,50:DA22FF,100:FF6FD8&text=Hello!%20I'm%20Vaishnavi%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI%20Developer&descAlignY=64&descSize=22"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF416C&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Developer;UI%2FUX+Designer;Creative+Web+Designer"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=DA22FF&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Developer;UI%2FUX+Designer;Creative+Web+Designer"/>
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vaishnavi-singh-a8a1112a7">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
+</a>
+
+<a href="https://github.com/vaishnavirajput-77">
+<img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge">
+</a>
+
+<a href="mailto:vaishnavirajput089@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge">
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge">
+</a>
+
+<a href="https://snapchat.com/add/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Snapchat-yellow?logo=snapchat&style=for-the-badge">
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vaishnavirajput-77&label=Profile%20Views&color=DA22FF&style=for-the-badge">
 </p>
 
 ---
@@ -66,6 +94,5 @@
 <h2 align="center">✨ Thanks for visiting my profile ✨</h2>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,50:FF416C,100:8E2DE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,50:DA22FF,100:8E2DE2&height=120&section=footer"/>
 </p>
-
