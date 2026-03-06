@@ -28,24 +28,28 @@
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎨 Passionate about **learning new technologies**
-💻 Interested in **Web Development & Frontend Development**
-✨ Love creating **modern UI/UX designs**
+💻 Interested in **Web Development**
+✨ Love designing **modern UI/UX interfaces**
 🚀 Currently improving my **coding and design skills**
+
+• UI/UX Enthusiast
+• Frontend Developer
+• Creative Thinker bringing ideas to life
 
 ---
 
-# 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,figma,nextjs,nodejs,react,bootstrap,vscode,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,bootstrap,git,github,vscode,figma"/>
 </p>
 
 ---
 
-# 📊 Real-time Development Stats
+## 📊 Real-time Development Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vaishnavirajput-77&show_icons=true&theme=tokyonight">
@@ -53,7 +57,7 @@
 
 ---
 
-# 📈 Top Languages by Repo
+## 📈 Top Languages by Repo
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavirajput-77&layout=compact&theme=tokyonight">
@@ -61,7 +65,7 @@
 
 ---
 
-# 📊 Commits Graph
+## 📊 Commits Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavirajput-77&theme=tokyo-night">
@@ -69,7 +73,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=vaishnavirajput-77&theme=tokyonight">
@@ -77,7 +81,7 @@
 
 ---
 
-# 💡 Quote of the Day
+## 💡 Quote of the Day
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
@@ -85,7 +89,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
@@ -93,7 +97,7 @@
 
 ---
 
-# ⭐ Popular Repositories
+## ⭐ Popular Repositories
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishnavirajput-77&repo=portfolio&theme=tokyonight">
@@ -103,4 +107,3 @@
 ---
 
 <h2 align="center">✨ Thanks for visiting! ✨</h2>
-
